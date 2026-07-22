@@ -17,4 +17,6 @@ worst part of this entire thing, fusion360 was too hard and i decided to experim
 wasnt hard, kmk is easy and has alot of documentation to help with it. hopefully i can someday be good enough at programming to make a gui interface for remapping the keys. i only used layers to add about double the functionality to the keyboard (sixth button changes the entire keymap, and when the knob is pressed it changes brightness instead of volume, i just thought it was a cool way to make this different)
 ### dont recommend this but will definitely do it again. 0/10
  *pcb and schematics made in kicad, case made in shapr3d, and the firmware made using kmk*
+
+ this is not over, the screen basically doesnt do anything (just shows current keyboard layer) currently so im looking forward to edit its usecase. i also really wanna make that gui app for remapping everything :D
  
