@@ -28,14 +28,23 @@ worst part of this entire thing, fusion360 was too hard and i decided to experim
 wasnt hard, kmk is easy and has alot of documentation to help with it. hopefully i can someday be good enough at programming to make a gui interface for remapping the keys. i only used layers to add about double the functionality to the keyboard (sixth button changes the entire keymap, and when the knob is pressed it changes brightness instead of volume, i just thought it was a cool way to make this different)
 # BOM.
 6x Cherry MX Switches
+
 6x through-hole 1N4148 diodes
+
 1x Seeed Studios XIAO RP2040
+
 1x 0.91" OLED display SSD1306
+
 1x EC11 rotary encoder
+
 4x Keycaps
+
 4x M3x5x4 headset inserts
+
 4x M3x16mm screws
+
 1x Case (2 part build, top and bottom)
+
 ### dont recommend this but will definitely do it again. 0/10
  *pcb and schematics made in kicad, case made in shapr3d, and the firmware made using kmk*
 
