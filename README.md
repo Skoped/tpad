@@ -9,6 +9,10 @@
 so im made this macropad as a challenge, and it did NOT go well.
 made this repo to show yall my progress   <sub> (its only made to submit this project) </sub>    i also couldnt make the knob work because i originally had the wrong 3d model for the rotary encoder.. (i made the knob :D)
 anyways ignore all that,
+# features.
+it has 6 keys, one of them acting as a gateway to the second layer. so it technically has the usage of 10 keys, which i put from f1 to f10 because i use a 60% keyboard and the f-row doesnt always work for some reason.
+it has a knob that acts as a way to decrease/increase volume, and when that knob is toggled, it acts as a way to decrease/increase brightness.
+the screen currently only shows what layer your mini keyboard is on, pretty useless but im gonna work on another usecase.
 # the pcb.
 <figure> <figcaption>the pcb</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/pcb.png" width="50%" height="50%"/> </figure> <figure> <figcaption>the schematics</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/schematic.png" width="50%" height="50%"/> </figure>
 
