@@ -11,8 +11,11 @@ made this repo to show yall my progress   <sub> (its only made to submit this pr
 anyways ignore all that,
 # the pcb.
 ![pcb image](https://github.com/skoped/tpad/blob/main/images%20for%20readme/pcb.png)
+![schematic image](https://github.com/skoped/tpad/blob/main/images%20for%20readme/schematic.png)
 i made this thing using kicad and tried to make it as tidy as possible which obviously i failed at that. this was probably the easiest part but i kept going back to it because i really didnt do it correctly at first.
 # the case.
+![case put together](https://github.com/skoped/tpad/blob/main/images%20for%20readme/case-full.png)
+![case laid out](https://github.com/skoped/tpad/blob/main/images%20for%20readme/entire-case-laid-out.png)
 worst part of this entire thing, fusion360 was too hard and i decided to experiment a bit with different software. i went on my dads ipad and found the absolute best app for this (very expensive so i used the trial :D). the app is shapr3d, i couldnt use fusion mostly because im using it on a pc with no touchscreen, making it harder to design what i wanted exactly.
 # the firmware.
 wasnt hard, kmk is easy and has alot of documentation to help with it. hopefully i can someday be good enough at programming to make a gui interface for remapping the keys. i only used layers to add about double the functionality to the keyboard (sixth button changes the entire keymap, and when the knob is pressed it changes brightness instead of volume, i just thought it was a cool way to make this different)
