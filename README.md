@@ -10,7 +10,7 @@ so im made this macropad as a challenge, and it did NOT go well.
 made this repo to show yall my progress   <sub> (its only made to submit this project) </sub>    i also couldnt make the knob work because i originally had the wrong 3d model for the rotary encoder.. (i made the knob :D)
 anyways ignore all that,
 # the pcb.
-the pcb <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/pcb.png" width="30%" height="30%"/>  the schematics <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/schematic.png" width="30%" height="30%"/>
+<figure> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/pcb.png" width="30%" height="30%"/> <figcaption>pcb</figcaption> </figure>  the schematics <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/schematic.png" width="30%" height="30%"/>
 
 i made this thing using kicad and tried to make it as tidy as possible which obviously i failed at that. this was probably the easiest part but i kept going back to it because i really didnt do it correctly at first.
 # the case.
