@@ -14,12 +14,12 @@ it has 6 keys, one of them acting as a gateway to the second layer. so it techni
 it has a knob that acts as a way to decrease/increase volume, and when that knob is toggled, it acts as a way to decrease/increase brightness.
 the screen currently only shows what layer your mini keyboard is on, pretty useless but im gonna work on another usecase.
 # the pcb.
-<figure> <figcaption>the pcb</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/pcb.png" width="50%" height="50%"/> </figure> <figure> <figcaption>the schematics</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/schematic.png" width="50%" height="50%"/> </figure>
+<figure> <figcaption>the pcb</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/pcb.png" width="80%" height="80%"/> </figure> <figure> <figcaption>the schematics</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/schematic.png" width="50%" height="50%"/> </figure>
 
 
 i made this thing using kicad and tried to make it as tidy as possible which obviously i failed at that. this was probably the easiest part but i kept going back to it because i really didnt do it correctly at first.
 # the case.
-<figure> <figcaption>case put together</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/case-full.png" width="30%" height="30%"/> </figure> <figure> <figcaption>case laid out</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/entire-case-laid-out.png" width="50%" height="50%"/> </figure>
+<figure> <figcaption>case put together</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/case-full.png" width="80%" height="80%"/> </figure> <figure> <figcaption>case laid out</figcaption> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/entire-case-laid-out.png" width="80%" height="80%"/> </figure>
 
 
 the case consists of 2 parts, the top and the bottom. i made it so the screws can screw in from the bottom, so that they can be hidden. the top has some columns coming out of it so the screw can screw the screw in the columns through the holes in the bottom layer, holding the two parts together.
