@@ -26,7 +26,7 @@ the case consists of 2 parts, the top and the bottom. i made it so the screws ca
 worst part of this entire thing, fusion360 was too hard and i decided to experiment a bit with different software. i went on an ipad and found the absolute best app for this (very expensive so i used the trial :D). the app is shapr3d, i couldnt use fusion mostly because im using it on a pc with no touchscreen, making it harder to design what i wanted exactly.
 # the firmware.
 wasnt hard, kmk is easy and has alot of documentation to help with it. hopefully i can someday be good enough at programming to make a gui interface for remapping the keys. i only used layers to add about double the functionality to the keyboard (sixth button changes the entire keymap, and when the knob is pressed it changes brightness instead of volume, i just thought it was a cool way to make this different)
-# BOM
+# BOM.
 6x Cherry MX Switches
 6x through-hole 1N4148 diodes
 1x Seeed Studios XIAO RP2040
