@@ -12,9 +12,11 @@ anyways ignore all that,
 # the pcb.
 <figure> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/pcb.png" width="50%" height="50%"/><figcaption>pcb</figcaption> </figure> <figure> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/schematic.png" width="50%" height="50%"/><figcaption>the schematics</figcaption> </figure>
 
+
 i made this thing using kicad and tried to make it as tidy as possible which obviously i failed at that. this was probably the easiest part but i kept going back to it because i really didnt do it correctly at first.
 # the case.
 <figure> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/case-full.png" width="30%" height="30%"/><figcaption>case put together</figcaption> </figure> <figure> <img src="https://github.com/skoped/tpad/blob/main/images%20for%20readme/entire-case-laid-out.png" width="50%" height="50%"/><figcaption>case laid out</figcaption> </figure>
+
 
 the case consists of 2 parts, the top and the bottom. i made it so the screws can screw in from the bottom, so that they can be hidden. the top has some columns coming out of it so the screw can screw the screw in the columns through the holes in the bottom layer, holding the two parts together.
 worst part of this entire thing, fusion360 was too hard and i decided to experiment a bit with different software. i went on an ipad and found the absolute best app for this (very expensive so i used the trial :D). the app is shapr3d, i couldnt use fusion mostly because im using it on a pc with no touchscreen, making it harder to design what i wanted exactly.
